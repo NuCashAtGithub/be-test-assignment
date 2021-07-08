@@ -1,4 +1,4 @@
-NUCash Test Assignment for a Back-end Engineer
+#NuCash Test Assignment for a Back-end Engineer
 
 The task is to develop a simple calculator application that is able to accept a formula ((3*((4-5)/23)-15%) and will display the result.
 
