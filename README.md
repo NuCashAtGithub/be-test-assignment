@@ -6,7 +6,7 @@ Technical Requirements:
 - endpoint should accept JSON and return JSON
 - input formula should be validated
 - application should have global exception handling
-- application should be runnable using Dockerfile
+- application should be runnable using multi-staged Dockerfile
 - application should have unit and integration tests
 - (Optional) add metrics
 - (Optional) make use of memoisation technique
