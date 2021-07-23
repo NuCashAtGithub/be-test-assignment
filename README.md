@@ -1,4 +1,4 @@
-#NuCash Test Assignment for a Back-end Engineer
+# NuCash Test Assignment for a Back-end Engineer
 
 The task is to develop a REST web service that accepts formula as input(for instance: "3*(4-5)/23-15%") and returns result of calculation.
 
